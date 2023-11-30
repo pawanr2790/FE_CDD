@@ -43,7 +43,7 @@ function App() {
             />
           </svg>
         </span>
-        <span style={{ marginLeft: "5px" }}>Financial Management</span>
+        <span style={{ marginLeft: "5px" }}>Financial Management 22</span>
       </div>
 
       <div
